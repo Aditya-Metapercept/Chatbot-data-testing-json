@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "documentInfo": {
+      "metaTitle": {
+        "chunk_references": ["e75d5c89-bf21-4f5a-963a-28392eb4036b"],
+        "value": "Application Development for Content Delivery | Metapercept"
+      },
+      "metaDescription": {
+        "chunk_references": ["c95c52fa-b78a-4c47-8a0c-39cf3ff4a6db"],
+        "value": "Application development for content delivery and enterprise documentation in the APAC region."
+      },
+      "documentURL": {
+        "chunk_references": ["7a50c7a1-d9e4-4d80-b03d-334c43fd4526"],
+        "value": "https://metapercept.com/services/softwaredevelopment/webdevelopment/"
+      }
+    },
+    "heroSections": [
+      {
+        "heading": {
+          "chunk_references": ["f3f7a4e0-3a73-4b2b-8bc7-365ec124f3cb"],
+          "value": "Enterprise-Grade Web & Mobile Application Development for Content Delivery"
+        },
+        "subHeading": {
+          "chunk_references": ["cb3061c1-fcc3-40db-a8d2-19a55f02dcdd"],
+          "value": "Secure, Scalable, and AI-Ready Applications for Technical Documentation & Publishing"
+        },
+        "content": {
+          "chunk_references": ["f63aa92c-d82b-44ac-bcd4-df0af94f5af8"],
+          "value": "At Metapercept, we specialize in web and mobile application development tailored for enterprise documentation and publishing. From secure portals providing 24/7 access to technical manuals, to offline-ready mobile apps for field engineers, to responsive portals that enable intuitive navigation and knowledge sharing, we build applications that keep content accessible everywhere. Our solutions improve accessibility, enhance productivity, and streamline knowledge workflows. Built on modern frameworks such as React, Node.js, Strapi, and Next.js, our applications are scalable, secure, and optimized for structured content formats like DITA-XML, DocBook, and CCMS integration. Future-ready and AI-enabled, they support semantic search, ontology mapping, and automated knowledge delivery across enterprise systems."
+        }
+      }
+    ],
+    "servicesSummary": [
+      {
+        "serviceName": {
+          "chunk_references": ["b6cc74a7-bb44-4a53-a066-8100d9c2f780"],
+          "value": "Key Benefits"
+        },
+        "summary": {
+          "chunk_references": ["b6cc74a7-bb44-4a53-a066-8100d9c2f780"],
+          "value": "Applications tailored for enterprise documentation workflows and structured formats (DITA-XML, DocBook, CCMS). Multi-channel delivery across web, mobile, and portals. Secure, scalable, and engaging solutions built on React, Node.js, Strapi, Next.js, and cloud-native stacks. AI-ready and optimized for semantic search and knowledge delivery. Faster launches, reduced costs, and empowered teams with anytime, anywhere content access."
+        }
+      }
+    ]
+  },
+  "extraction": {
+    "documentInfo": {
+      "metaTitle": "Application Development for Content Delivery | Metapercept",
+      "metaDescription": "Application development for content delivery and enterprise documentation in the APAC region.",
+      "documentURL": "https://metapercept.com/services/softwaredevelopment/webdevelopment/"
+    },
+    "heroSections": [
+      {
+        "heading": "Enterprise-Grade Web & Mobile Application Development for Content Delivery",
+        "subHeading": "Secure, Scalable, and AI-Ready Applications for Technical Documentation & Publishing",
+        "content": "At Metapercept, we specialize in web and mobile application development tailored for enterprise documentation and publishing. From secure portals providing 24/7 access to technical manuals, to offline-ready mobile apps for field engineers, to responsive portals that enable intuitive navigation and knowledge sharing, we build applications that keep content accessible everywhere. Our solutions improve accessibility, enhance productivity, and streamline knowledge workflows. Built on modern frameworks such as React, Node.js, Strapi, and Next.js, our applications are scalable, secure, and optimized for structured content formats like DITA-XML, DocBook, and CCMS integration. Future-ready and AI-enabled, they support semantic search, ontology mapping, and automated knowledge delivery across enterprise systems."
+      }
+    ],
+    "servicesSummary": [
+      {
+        "serviceName": "Key Benefits",
+        "summary": "Applications tailored for enterprise documentation workflows and structured formats (DITA-XML, DocBook, CCMS). Multi-channel delivery across web, mobile, and portals. Secure, scalable, and engaging solutions built on React, Node.js, Strapi, Next.js, and cloud-native stacks. AI-ready and optimized for semantic search and knowledge delivery. Faster launches, reduced costs, and empowered teams with anytime, anywhere content access."
+      }
+    ]
+  }
+}
